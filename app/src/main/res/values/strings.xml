@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Talk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_settings">Приветствую в настройках!</string>
+    <string name="hello_blank_fragment_chats">Приветствую в чатах!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Settings Header Block -->
+    <string name="string_settings_default_username">Василий Петров</string>
+    <string name="string_settings_default_status">не в сети</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_back">Выход</string>
+    <!-- Settings Account Label Block -->
+    <string name="string_settings_label_account">Аккаунт</string>
+    <!-- Settings Account Phone Block -->
+    <string name="string_settings_phone_account">+7(111) 111 1111</string>
+    <string name="string_settings_phone_account_context">Нажмите для изменения номера телефона</string>
+    <!-- Settings Account Login Block -->
+    <string name="string_settings_login_account">vasiliyivanov</string>
+    <string name="string_settings_login_account_context">Имя пользователя</string>
+    <!-- Settings Account Login Block -->
+    <string name="string_settings_bio_account">О себе</string>
+    <string name="string_settings_bio_account_context">Статус пользователя</string>
+    <string name="cd_code_image">cd_code_image</string>
+    <string name="enter_code_text">Введите код</string>
+    <string name="enter_code_context">Мы отправили СМС с кодом проверки</string>
+    <string name="mask_of_enter_of_code">_ _ _ _ _ _</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="todo">TODO</string>
+    <string name="register_toast_enter_phone">Введите номер телефона</string>
+    <string name="next_button">TODO</string>
+    <string name="next_btn">Далее</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="settings_input_change_username_hint">Псевдоним</string>
+    <string name="settings_input_change_name_hint">Имя</string>
+    <string name="settings_input_change_surname_hint">Фамилия</string>
+    <string name="settings_input_change_name_empty">Имя не может быть пустым</string>
+    <string name="settings_name_changed">Данные обновлены</string>
+    <string name="settings_input_bio_hint">О себе</string>
+</resources>
